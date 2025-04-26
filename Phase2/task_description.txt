@@ -1,0 +1,25 @@
+1. Automatically create a comprehensive dataset of two shows including:
+   - Survivor:
+     * Season number
+     * Year aired
+     * Winner name
+     * Runner-up(s)
+     * Location
+     * Number of contestants
+     * Viewership data
+   
+   - American Idol:
+     * Season number
+     * Year aired
+     * Winner name
+     * Runner-up(s)
+     * Judges for that season
+     * Number of contestants
+     * Viewership data
+
+2. Determine how many more unique winners there have been in the American version of Survivor compared to American Idol as of the end of Survivor's 44th season. Provide the exact numbers for each show and the difference between them in a file called result.txt.
+
+2. In a Python script or Jupyter notebook, provide visualizations to compare both shows:
+   - Demographics of winners (age, gender, background)
+   - Viewership trends over time (with visualizations)
+   - Analysis of how both shows have evolved over time

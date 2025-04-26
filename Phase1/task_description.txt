@@ -1,0 +1,19 @@
+1. Automatically create a dataset of at least 50 home sales in Pearl City, Hawaii from 2021-2023, including:
+   - Address
+   - Sale date
+   - Sale price
+   - Square footage
+   - Number of bedrooms/bathrooms
+   - Year built
+   - Any other relevant features
+
+Note this must include the following two properties: 
+- 2072 Akaikai Loop
+- 2017 Komo Mai Drive
+
+2. Determine which of these two properties in Pearl City, Hawaii sold for more in 2022. Provide the exact sale price of the higher-priced property in a file called result.txt.
+
+3. In a Python script or Jupyter notebook, analyze the dataset and provide analyses for:
+   - Current estimated value of a typical home in the area
+   - Best time to sell based on seasonal trends (if any)
+   - Which home improvements might yield the best return on investment
