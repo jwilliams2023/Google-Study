@@ -1,0 +1,56 @@
+Address,Sale Date,Sale Price,Square Footage,Bedrooms,Bathrooms,Year Built,Price per Sqft,Property Type,Lot Size (sqft),Has Pool,Has Garage,Garage Size
+2072 Akaikai Loop,2022-06-15,875000,1850,4,2.5,1985,472.97,Townhouse,2941,False,False,0
+2017 Komo Mai Drive,2022-09-22,925000,2100,4,3.0,1992,440.48,Single Family,5594,False,False,0
+2309 Noelani Street,2021-02-21,849671,1730,4,2.5,2007,491.14,Single Family,4941,False,True,2
+1563 Kuahaka Street,2022-04-03,776584,1682,3,3.0,1968,461.7,Single Family,3727,False,True,2
+2508 Noelani Street,2021-06-28,957921,2183,2,3.5,1997,438.81,Single Family,6498,False,True,3
+1864 Komo Mai Drive,2021-03-03,753052,2071,3,1.5,1965,363.62,Townhouse,3264,False,True,3
+1447 Kuahaka Street,2023-11-01,824196,1000,3,2.0,1998,824.2,Single Family,1593,False,False,0
+1054 Puu Poni Street,2022-02-12,698716,1957,3,2.0,2005,357.03,Single Family,6960,True,True,2
+2330 Puu Poni Street,2023-05-10,946564,1687,3,2.5,1974,561.09,Single Family,4049,False,False,0
+1919 Moanalua Road,2022-07-24,745561,1855,4,1.5,2011,401.92,Single Family,3371,False,True,2
+2780 Akaikai Loop,2021-11-23,739936,1654,4,2.0,2004,447.36,Condo,4640,False,False,0
+1865 Hoomalu Street,2022-07-24,798650,1271,2,3.0,1969,628.36,Condo,4353,False,True,3
+1440 Hoomalu Street,2021-07-29,882254,1189,3,2.5,1965,742.01,Condo,2425,False,True,2
+1778 Noelani Street,2023-01-06,667181,1898,5,2.5,2014,351.52,Single Family,5802,False,False,0
+1704 Hoolana Street,2022-06-26,873846,1885,3,1.5,2011,463.58,Single Family,3229,True,True,1
+1088 Aumakua Street,2021-09-13,788435,1649,3,2.0,1984,478.13,Condo,2686,False,True,1
+1161 Puu Poni Street,2022-08-24,753936,2328,3,2.5,2013,323.86,Single Family,6584,True,False,0
+2287 Hoolana Street,2023-01-11,832408,1607,3,3.5,1996,517.99,Condo,4582,False,False,0
+1393 Hookanike Street,2021-04-04,732307,2105,2,3.0,2002,347.89,Condo,6511,False,True,1
+1466 Hooli Circle,2021-06-13,903099,2265,4,1.5,2014,398.72,Townhouse,7508,False,True,1
+1476 Noelani Street,2023-02-18,716078,1645,5,2.5,1977,435.31,Single Family,6480,False,True,2
+1928 Lehua Avenue,2021-11-30,752082,1707,3,2.0,1983,440.59,Single Family,4763,False,True,1
+1727 Waimano Home Road,2022-07-01,881252,2478,5,2.0,2004,355.63,Townhouse,5717,False,True,3
+2918 Hookanike Street,2021-12-17,836163,1477,4,2.5,1994,566.12,Single Family,5151,False,True,3
+2493 Kuahaka Street,2021-12-01,796417,2582,4,2.0,1989,308.45,Single Family,5621,False,True,1
+1777 Hoohulu Street,2022-03-26,808704,1650,3,2.5,2003,490.12,Single Family,4285,False,True,3
+1664 Komo Mai Drive,2022-04-15,778032,1978,3,2.5,2012,393.34,Condo,3354,False,True,1
+1065 Hoomalu Street,2023-04-02,719150,1549,5,3.0,1977,464.27,Single Family,2421,False,True,1
+1135 Waimano Home Road,2022-10-07,891540,1964,4,1.5,1973,453.94,Single Family,7672,False,True,1
+2342 Kaahumanu Street,2023-03-22,809707,2284,4,3.0,2001,354.51,Single Family,8199,True,True,3
+1939 Hoolaulea Street,2022-06-27,729794,1636,3,2.0,1968,446.08,Single Family,5300,True,True,3
+1505 Puu Poni Street,2022-06-23,829612,1930,2,2.5,2007,429.85,Condo,4868,True,True,1
+2197 Kuala Street,2023-03-29,658462,1589,3,2.0,1983,414.39,Single Family,3071,True,False,0
+1449 Hoolaulea Street,2023-11-10,783871,2002,4,2.5,1991,391.54,Single Family,3785,False,True,1
+1186 Komo Mai Drive,2021-08-13,825755,1762,5,2.0,1969,468.65,Townhouse,3745,True,True,1
+2285 Leomele Street,2023-05-15,608122,1786,3,1.0,1998,340.49,Townhouse,5131,False,True,1
+1130 Kamehameha Highway,2023-02-21,806023,3031,3,2.0,1998,265.93,Single Family,9961,False,True,2
+1958 Pukunui Street,2022-05-30,780763,1950,3,2.0,1995,400.39,Townhouse,6143,True,True,1
+2762 Akaikai Loop,2021-08-23,914282,2175,3,2.5,2003,420.36,Single Family,4784,False,True,3
+2812 Puu Poni Street,2022-07-01,940279,1099,4,2.5,2009,855.58,Single Family,4271,False,True,1
+2312 Hoomalu Street,2021-08-17,700946,1516,2,2.5,1978,462.37,Townhouse,5070,True,True,2
+1890 Leomele Street,2023-07-19,644933,1834,4,1.5,1960,351.65,Townhouse,5292,False,True,3
+2953 Hoohulu Street,2023-10-23,708057,2574,5,1.5,2008,275.08,Townhouse,7797,False,False,0
+1365 Pukunui Street,2021-08-06,721674,1638,5,3.0,2015,440.58,Condo,4175,False,True,2
+2280 Hooli Circle,2023-11-06,881351,1184,4,2.5,1998,744.38,Single Family,2509,False,True,1
+1407 Hoolaulea Street,2023-02-05,639251,1892,3,3.0,2008,337.87,Single Family,4521,False,True,3
+1330 Puu Poni Street,2023-12-23,825988,2190,3,2.0,1960,377.16,Townhouse,7434,False,False,0
+2226 Hoomalu Street,2023-09-28,852194,1948,5,2.5,1961,437.47,Single Family,2992,False,True,1
+1229 Lehua Avenue,2022-09-22,731997,1916,3,3.0,1975,382.04,Townhouse,3429,False,True,3
+1118 Kuahaka Street,2021-06-11,829307,1442,2,1.5,1965,575.11,Townhouse,2328,False,False,0
+2498 Kaahumanu Street,2021-05-22,986577,2036,4,2.0,2008,484.57,Townhouse,3261,False,False,0
+2090 Hoolaulea Street,2021-09-20,702531,2193,3,2.5,2002,320.35,Single Family,7979,False,False,0
+1973 Puu Poni Street,2021-12-05,896337,2006,4,2.5,1976,446.83,Single Family,6537,False,True,3
+2080 Hoolana Street,2023-05-17,775461,1423,3,2.0,1973,544.95,Single Family,3821,False,True,3
+2902 Puu Poni Street,2022-02-16,792289,1970,5,2.5,2005,402.18,Single Family,3436,False,True,2
