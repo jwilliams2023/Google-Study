@@ -1,0 +1,66 @@
+Season,Year_Aired,Winner,Runner_Up,Location,Number_of_Contestants,Viewership_Millions,Show,Winner_Age,Winner_Gender,Winner_Background,Judges
+1,2000,Allison Hill,Noah Rhodes,Borneo,16,20.67,Survivor,36,Male,Sales,
+2,2000,Angie Henderson,Daniel Wagner,Australian Outback,20,17.75,Survivor,48,Male,Student,
+3,2001,Cristian Santos,Connie Lawrence,Africa,17,19.12,Survivor,22,Male,Entertainment,
+4,2001,Abigail Shaffer,Gina Moore,Marquesas,19,19.16,Survivor,21,Male,Military,
+5,2002,Gabrielle Davis,Ryan Munoz,Thailand,17,17.36,Survivor,42,Male,Attorney,
+6,2002,Monica Herrera,Jamie Arnold,Amazon,18,19.59,Survivor,37,Male,Finance,
+7,2003,Lisa Hensley,Michele Williams,Pearl Islands,19,16.22,Survivor,39,Female,Technology,
+8,2003,Dylan Miller,Brian Ramirez,All-Stars,16,15.78,Survivor,35,Female,Attorney,
+9,2004,Holly Wood,"Derek Zuniga, Lisa Jackson",Vanuatu,16,16.82,Survivor,50,Female,Sales,
+10,2004,Carla Gray,Margaret Hawkins DDS,Palau,17,17.68,Survivor,25,Male,Entertainment,
+11,2005,Patty Perez,Ethan Adams,Guatemala,17,16.55,Survivor,38,Male,Teacher,
+12,2005,Tommy Walter,Matthew Foster,Panama,16,15.32,Survivor,23,Female,Military,
+13,2006,Judy Baker,Justin Baker,Cook Islands,17,17.75,Survivor,41,Male,Finance,
+14,2006,Stephanie Ross,Zachary Hicks,Fiji,19,14.37,Survivor,29,Male,Entertainment,
+15,2007,Anthony Rodriguez,Rebecca Henderson,China,20,15.21,Survivor,46,Female,Medical,
+16,2007,James Ferrell,"Tricia Valencia, Nathan Maldonado",Micronesia,17,15.24,Survivor,26,Male,Attorney,
+17,2008,Debra Davidson,Jeffrey Chavez,Gabon,17,16.07,Survivor,48,Male,Military,
+18,2008,Sherri Baker,Cassandra Gaines,Tocantins,19,14.72,Survivor,56,Male,Attorney,
+19,2009,Elizabeth Fowler,Brittany Farmer,Samoa,20,15.3,Survivor,42,Male,Retired,
+20,2009,Paula Moreno,Fred Smith,Heroes vs. Villains,19,12.01,Survivor,37,Male,Entertainment,
+21,2010,Sherry Decker,"Anthony Humphrey, Angelica Tucker",Nicaragua,18,15.07,Survivor,53,Male,Sales,
+22,2010,Philip Cannon,John Pierce,Redemption Island,17,13.56,Survivor,54,Male,Technology,
+23,2011,Shane Henderson,Joshua Blair,South Pacific,16,11.55,Survivor,44,Female,Medical,
+24,2011,Eric Carney,Jessica Holmes,One World,20,14.59,Survivor,26,Female,Attorney,
+25,2012,Danny Morgan,"Crystal Robinson, Mark Perez",Philippines,20,13.56,Survivor,29,Female,Entertainment,
+26,2012,Shannon Jones,Michael Lewis,Caramoan,20,13.69,Survivor,48,Male,Entertainment,
+27,2013,Timothy Duncan,Richard Aguirre,Blood vs. Water,17,12.75,Survivor,46,Female,Finance,
+28,2013,Brent Jordan,"John Daniel, Victoria Garcia",Cagayan,19,10.08,Survivor,35,Male,Teacher,
+29,2014,Gerald Hensley,Connor West,San Juan del Sur,20,10.22,Survivor,35,Male,Attorney,
+30,2014,Donald Wright,Jessica Callahan,Worlds Apart,16,9.92,Survivor,23,Female,Attorney,
+31,2015,Amber Kidd,Tracy House,Cambodia,18,11.38,Survivor,34,Male,Technology,
+32,2015,Carol Tucker,James Brown,Kaôh Rōng,17,11.54,Survivor,47,Male,Attorney,
+33,2016,William Baker,Jordan Henderson,Millennials vs. Gen X,19,9.52,Survivor,47,Female,Student,
+34,2016,Whitney Peters,Brittney Phillips,Game Changers,16,8.04,Survivor,42,Male,Medical,
+35,2017,Lauren Daniels,Amy Silva,Heroes v. Healers v. Hustlers,20,9.29,Survivor,48,Male,Retired,
+36,2017,Sarah Moore,Angela Lopez,Ghost Island,16,8.97,Survivor,56,Male,Student,
+37,2018,Megan Young,Steve Sanchez,David vs. Goliath,20,10.24,Survivor,26,Male,Sales,
+38,2018,Lisa Barnes,Kelly Donovan,Edge of Extinction,19,7.45,Survivor,46,Male,Sales,
+39,2019,Mike Allen,Michael Evans,Island of the Idols,19,7.36,Survivor,50,Female,Military,
+40,2019,Paul Jones,Zachary Ferrell,Winners at War,20,8.65,Survivor,52,Male,Medical,
+41,2020,Daniel Baker,Shirley Suarez,Fiji (41),16,8.02,Survivor,55,Male,Teacher,
+42,2020,Christopher Bass,Lisa Archer,Fiji (42),20,7.31,Survivor,54,Male,Student,
+43,2021,Aimee Montoya,"Matthew Mcmillan, Brian Rodriguez",Fiji (43),16,8.51,Survivor,25,Male,Medical,
+44,2021,Denise Jacobs,Christina Walters,Fiji (44),20,5.78,Survivor,23,Male,Military,
+1,2002,John Whitehead,Anna Henderson,,36,27.77,American Idol,20,Male,Church Singer,"Simon Cowell, Paula Abdul, Randy Jackson"
+2,2003,Aaron Wise,Deborah Figueroa,,27,26.06,American Idol,18,Female,Street Performer,"Simon Cowell, Paula Abdul, Randy Jackson"
+3,2004,Jessica Smith,Stephen Mckee,,30,27.22,American Idol,30,Male,Student,"Simon Cowell, Paula Abdul, Randy Jackson"
+4,2005,Sandra Aguilar,Cameron Parker,,34,24.48,American Idol,25,Male,Waitress/Waiter,"Simon Cowell, Paula Abdul, Randy Jackson"
+5,2006,Rebecca Valencia,Christine Wright,,26,22.52,American Idol,18,Female,Waitress/Waiter,"Simon Cowell, Paula Abdul, Randy Jackson"
+6,2007,Richard Henson,Marc Moore,,27,20.48,American Idol,18,Female,Bar Singer,"Simon Cowell, Paula Abdul, Randy Jackson"
+7,2008,Sharon Cherry,Sierra Johnson,,36,17.53,American Idol,29,Female,Waitress/Waiter,"Simon Cowell, Paula Abdul, Randy Jackson"
+8,2009,Evelyn Galvan,Sharon Cochran,,24,17.06,American Idol,30,Male,Retail,"Simon Cowell, Paula Abdul, Randy Jackson, Kara DioGuardi"
+9,2010,Richard Rodriguez,Shannon Walker,,28,15.63,American Idol,19,Female,Unemployed,"Ellen DeGeneres, Simon Cowell, Randy Jackson, Kara DioGuardi"
+10,2011,Julia Torres,Crystal Johnson,,28,15.02,American Idol,20,Male,Waitress/Waiter,"Jennifer Lopez, Steven Tyler, Randy Jackson"
+11,2012,Garrett Lin,Diana May,,33,15.82,American Idol,16,Male,Church Singer,"Jennifer Lopez, Steven Tyler, Randy Jackson"
+12,2013,William Herrera,Ashley Waller,,24,14.55,American Idol,20,Male,Street Performer,"Mariah Carey, Nicki Minaj, Randy Jackson, Keith Urban"
+13,2014,Victor Baker,Jeffrey Chandler,,33,13.74,American Idol,17,Male,Retail,"Jennifer Lopez, Keith Urban, Harry Connick Jr."
+14,2015,Larry Dixon,Kenneth Scott,,21,14.34,American Idol,25,Male,Music Teacher,"Jennifer Lopez, Keith Urban, Harry Connick Jr."
+15,2016,April Frost,Michelle Harmon,,24,10.67,American Idol,21,Male,Church Singer,"Jennifer Lopez, Keith Urban, Harry Connick Jr."
+16,2017,Helen Jones,Erin Edwards,,26,12.73,American Idol,26,Male,Church Singer,"Katy Perry, Luke Bryan, Lionel Richie"
+17,2018,Michelle Evans,Jason Powell,,33,13.4,American Idol,27,Male,Unemployed,"Katy Perry, Luke Bryan, Lionel Richie"
+18,2019,Cameron Fisher,Megan Orr,,25,12.9,American Idol,28,Male,Music Teacher,"Katy Perry, Luke Bryan, Lionel Richie"
+19,2020,Elizabeth Kelley,Dustin Jordan,,20,9.22,American Idol,30,Female,Music Teacher,"Katy Perry, Luke Bryan, Lionel Richie"
+20,2021,Mary Marshall,Daniel Kennedy,,27,9.07,American Idol,28,Male,Music Teacher,"Katy Perry, Luke Bryan, Lionel Richie"
+21,2022,Rebecca Jackson,Jose Schultz,,21,10.93,American Idol,19,Male,Street Performer,"Katy Perry, Luke Bryan, Lionel Richie"
